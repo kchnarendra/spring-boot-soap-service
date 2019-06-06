@@ -1,0 +1,9 @@
+com/narendra/soap/service/testnamespace/StudentDetailsResponse.class
+com/narendra/soap/service/SpringBootSoapServiceApplication.class
+com/narendra/soap/service/StudentRepository.class
+com/narendra/soap/service/testnamespace/Student.class
+com/narendra/soap/service/testnamespace/ObjectFactory.class
+com/narendra/soap/service/testnamespace/StudentDetailsRequest.class
+com/narendra/soap/service/Config.class
+com/narendra/soap/service/StudentEndpoint.class
+com/narendra/soap/service/testnamespace/package-info.class

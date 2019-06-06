@@ -1,0 +1,9 @@
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/SpringBootSoapServiceApplication.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/testnamespace/package-info.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/Config.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/StudentEndpoint.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/testnamespace/ObjectFactory.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/testnamespace/StudentDetailsResponse.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/testnamespace/Student.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/testnamespace/StudentDetailsRequest.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-service/src/main/java/com/narendra/soap/service/StudentRepository.java
